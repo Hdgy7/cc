@@ -1,0 +1,27 @@
+header {
+ text-align:center;
+ height: 100px;
+ background-color: #ffe697;
+ padding: 10px;
+ border-radius: 10px 10px 0px 0px;
+ }
+ footer {
+ text-align:center;
+ font-size: 12px;
+ height: 50px;
+ line-height: 50px;
+ background-color: #ffe697;
+ padding: 10px;
+ border-radius: 10px;
+ }
+ img{
+ width: 100px;
+ height: 100px;
+ }
+ article{
+ width: auto;
+ border: 2px solid gray;
+ padding: 10px;
+ border-radius: 10px;
+ margin:5px;
+ }
